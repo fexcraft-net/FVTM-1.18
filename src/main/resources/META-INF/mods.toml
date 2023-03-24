@@ -40,7 +40,7 @@ Pack-based mod providing a system for customisable content like:
 - Containers for Shipping (multiblock structure)
 - Items (generic, consumables, special mod items)
 and much more!
-And the best part you don't need to know java~to make a pack!
+And the best part you don't need to know java to make a pack!
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.fvtm]] #optional
